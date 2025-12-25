@@ -6,7 +6,7 @@ def iteration_ink(n):
         for i in range(n+1):
             print(f'{i}th Iteration ---')
     else:
-        print(f'what do you mean by {n}. Im too lazy to print!')
+        print(f'what do you mean by {n}. I am too lazy to print!')
     
 iteration_ink(n)  
 
